@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CarPassport — Araç Bakım, Muayene ve Masraf Takibi (iPhone)</title>
+<meta name="description" content="CarPassport aracının pasaportu: TÜVTÜRK muayene, MTV, sigorta ve kasko tarihlerini hatırlatır; yakıt ve bakım masraflarını, boya-değişen haritasını ve tramer kaydını tek yerde tutar. Satarken tek dokunuşla PDF servis geçmişi.">
+<link rel="canonical" href="https://necatidogrul.github.io/carpassport-site/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="CarPassport — Aracının Pasaportu Cebinde">
+<meta property="og:description" content="Muayene, MTV, sigorta hatırlatmaları + masraf takibi + ekspertiz haritası + PDF servis geçmişi.">
+<meta property="og:url" content="https://necatidogrul.github.io/carpassport-site/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0E2C4A">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MobileApplication","name":"CarPassport: Araç Bakım Takip","operatingSystem":"iOS","applicationCategory":"UtilitiesApplication","description":"Araç bakım ve masraf takip uygulaması: TÜVTÜRK muayene, MTV, trafik sigortası ve kasko hatırlatmaları; yakıt, bakım, lastik masraf kayıtları; 13 parçalık boya-değişen haritası ve tramer kaydı; satışta PDF servis geçmişi raporu.","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","description":"Ücretsiz; Pro tek seferlik satın alımla sınırsız araç ve PDF rapor"},"url":"https://apps.apple.com/app/id6794941441","author":{"@type":"Person","name":"Necati Dogrul"},"inLanguage":["tr","en"]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"CarPassport hangi tarihleri hatırlatır?","acceptedAnswer":{"@type":"Answer","text":"TÜVTÜRK muayene, MTV taksitleri (Ocak ve Temmuz), trafik sigortası ve kasko yenileme, kış/yaz lastiği değişimi (1 Aralık / 1 Nisan), egzoz emisyon ölçümü, yağ değişimi ve periyodik bakım. 7 gün önce, 1 gün önce ve gün içinde bildirim alırsınız."}},
+{"@type":"Question","name":"Boya-değişen haritası nedir?","acceptedAnswer":{"@type":"Answer","text":"Ekspertiz raporlarındaki 13 parçalık kaporta şeması: her panel için orijinal / boyalı / değişen durumu ve tramer (hasar kaydı) tutarını kaydedersiniz. Alırken ve satarken elinizin altında olur, PDF rapora dahildir."}},
+{"@type":"Question","name":"Araç satarken nasıl yardımcı olur?","acceptedAnswer":{"@type":"Answer","text":"Tek dokunuşla profesyonel PDF raporu oluşturur: servis geçmişi, masraf özeti, boya-değişen haritası ve tramer bilgisi. Geçmişi belgeli araç daha değerlidir ve pazarlığı kolaylaştırır."}},
+{"@type":"Question","name":"Verilerim nerede saklanıyor?","acceptedAnswer":{"@type":"Answer","text":"Tüm veriler yalnızca cihazınızda saklanır. Hesap gerekmez, sunucu yoktur, reklam yoktur."}},
+{"@type":"Question","name":"Galericiler kullanabilir mi?","acceptedAnswer":{"@type":"Answer","text":"Evet — Pro ile sınırsız araç eklenir; her araç için alış fiyatı, satış fiyatı ve otomatik kâr/zarar hesabı tutulur."}}]}
+</script>
+<style>
+:root{--navy:#0E2C4A;--navy2:#071A2E;--amber:#F2A63C;--text:#1a2433;--muted:#5b6b7d;--bg:#f5f7fa;--card:#ffffff}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:960px;margin:0 auto;padding:0 24px}
+header{background:linear-gradient(150deg,var(--navy),var(--navy2));color:#fff;padding:84px 0 64px;text-align:center}
+h1{font-size:clamp(38px,7vw,60px);font-weight:800;letter-spacing:-.01em}
+h1 .a{color:var(--amber)}
+.tag{font-size:clamp(16px,2.5vw,20px);color:#c9d6e4;max-width:560px;margin:16px auto 0}
+.chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:26px}
+.chip{border:1.5px solid rgba(242,166,60,.6);color:#ffe0b0;font-size:13px;font-weight:600;padding:7px 16px;border-radius:999px;background:rgba(255,255,255,.06)}
+.cta{display:inline-block;margin-top:36px;background:var(--amber);color:#1a1206;font-weight:800;padding:15px 36px;border-radius:999px;text-decoration:none;font-size:17px;box-shadow:0 8px 40px rgba(242,166,60,.35)}
+.sub{display:block;margin-top:14px;color:#9fb2c5;font-size:13px}
+section{padding:56px 0}
+h2{font-size:clamp(24px,4vw,30px);font-weight:800;margin-bottom:26px;text-align:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid #e4e9f0;border-radius:18px;padding:24px}
+.card h3{font-size:16px;margin-bottom:6px;color:var(--navy)}
+.card p{color:var(--muted);font-size:15px}
+.faq{max-width:720px;margin:0 auto}
+details{background:var(--card);border:1px solid #e4e9f0;border-radius:14px;padding:18px 22px;margin-bottom:10px}
+summary{cursor:pointer;font-weight:650}
+details p{margin-top:10px;color:var(--muted);font-size:15px}
+footer{padding:44px 0 60px;text-align:center;color:var(--muted);font-size:13px}
+footer a{color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Car<span class="a">Passport</span></h1>
+    <p class="tag">Aracının pasaportu cebinde: muayene, MTV, sigorta, masraflar, ekspertiz — hepsi tek yerde, tarihler asla kaçmaz.</p>
+    <div class="chips">
+      <span class="chip">TÜVTÜRK Muayene</span><span class="chip">MTV</span><span class="chip">Kasko</span><span class="chip">Kış Lastiği</span><span class="chip">Ekspertiz</span>
+    </div>
+    <a class="cta" href="https://apps.apple.com/app/id6794941441">App Store'dan İndir</a>
+    <span class="sub">Ücretsiz · iPhone · Türkçe & English</span>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <h2>Her şey kayıt altında</h2>
+    <div class="grid">
+      <div class="card"><h3>Tarihleri kaçırma</h3><p>Muayene, MTV taksitleri, trafik sigortası, kasko, kış/yaz lastiği ve yağ değişimi — 7 gün ve 1 gün önce bildirim.</p></div>
+      <div class="card"><h3>Masraf takibi</h3><p>Yakıt, bakım, onarım, lastik, otopark… Fiş fotoğrafıyla birlikte kaydet, aylık özet ve kategori kırılımını gör.</p></div>
+      <div class="card"><h3>Boya, değişen & tramer</h3><p>Ekspertizdeki 13 parçalık kaporta haritası ve hasar kaydı tutarı — alırken not al, satarken kanıtla.</p></div>
+      <div class="card"><h3>Araç Pasaportu PDF</h3><p>Tek dokunuşla profesyonel servis geçmişi raporu. Belgeli araç, değerli araçtır.</p></div>
+      <div class="card"><h3>Galericiye uygun</h3><p>Sınırsız araç, alış-satış fiyatları ve otomatik kâr/zarar hesabıyla tüm parkını yönet.</p></div>
+      <div class="card"><h3>Gizlilik önce</h3><p>Veriler yalnızca cihazında. Hesap yok, reklam yok, sunucu yok.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap faq">
+    <h2>Sık Sorulanlar</h2>
+    <details><summary>Hangi tarihleri hatırlatır?</summary><p>TÜVTÜRK muayene, MTV (Ocak & Temmuz), trafik sigortası, kasko, kış/yaz lastiği (1 Aralık / 1 Nisan), egzoz ve periyodik bakım.</p></details>
+    <details><summary>Boya-değişen haritası nedir?</summary><p>13 parçalık kaporta şeması: orijinal / boyalı / değişen + tramer tutarı. PDF rapora dahildir.</p></details>
+    <details><summary>Ücretsiz mi?</summary><p>Evet. Pro (tek seferlik satın alım) sınırsız araç, sınırsız kayıt ve PDF rapor açar.</p></details>
+    <details><summary>Verilerim nerede?</summary><p>Yalnızca cihazında. Uygulamayı silersen veriler de silinir.</p></details>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>CarPassport — <a href="https://necatidogrul.github.io/carpassport-legal/privacy.html">Gizlilik</a> · <a href="https://necatidogrul.github.io/carpassport-legal/terms.html">Koşullar</a> · <a href="https://apps.apple.com/app/id6794941441">App Store</a></p>
+  </div>
+</footer>
+</body>
+</html>

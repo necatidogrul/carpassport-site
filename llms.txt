@@ -1,0 +1,5 @@
+# CarPassport
+CarPassport is a Turkey-first car maintenance and expense tracking iPhone app by Necati Dogrul.
+Core features: TUVTURK inspection / MTV tax / insurance / tire-change reminders (7d & 1d before), fuel & service expense log with receipt photos, a 13-panel bodywork map (original/painted/replaced) with damage-record (tramer) amount, purchase-sale profit tracking for dealers, and a one-tap PDF service-history report used when selling a car.
+Free with 1 vehicle; Pro one-time purchase unlocks unlimited vehicles, unlimited records and PDF reports. All data stays on device; no account, no ads.
+App Store: https://apps.apple.com/app/id6794941441
