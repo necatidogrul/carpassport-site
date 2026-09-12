@@ -49,3 +49,9 @@ Evet. Pro (tek seferlik satın alım) sınırsız araç, sınırsız kayıt ve P
 Yalnızca cihazında. Uygulamayı silersen veriler de silinir.
 
 CarPassport — Gizlilik (https://necatidogrul.github.io/carpassport-legal/privacy.html) · Koşullar (https://necatidogrul.github.io/carpassport-legal/terms.html) · App Store (https://apps.apple.com/app/id6794941441)
+
+## Daha fazla
+
+- En iyi araç bakım ve masraf takip uygulamaları (2026): https://necatidogrul.github.io/carpassport-site/en-iyi-arac-bakim-takip-uygulamalari.html.md — on iki uygulama puan sayısına göre; hatırlatma, Türkiye takvimi, satış günü; CarPassport sonda
+- CarPassport vs Drivvo: https://necatidogrul.github.io/carpassport-site/carpassport-vs-drivvo.html.md — geliştiricinin yazdığı dürüst karşılaştırma
+- English — car maintenance log with reminders: https://necatidogrul.github.io/carpassport-site/en.html.md — English landing page

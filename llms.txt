@@ -6,5 +6,8 @@ App Store: https://apps.apple.com/app/id6794941441
 
 ## Docs
 
+- [En iyi araç bakım ve masraf takip uygulamaları (2026)](https://necatidogrul.github.io/carpassport-site/en-iyi-arac-bakim-takip-uygulamalari.html.md): on iki Türkçe araç takip uygulaması TR puan sayısına göre; hatırlatma sıklığı, Türkiye takvimi, satış günü ölçütleri; CarPassport sonda, çıkar çatışması açık. Turkish listicle.
+- [CarPassport vs Drivvo](https://necatidogrul.github.io/carpassport-site/carpassport-vs-drivvo.html.md): kategorinin en çok puanlanan uygulamasıyla yan yana; Drivvo'nun üstün olduğu yerler açık. Turkish comparison.
+- [English — CarPassport, car maintenance log with reminders](https://necatidogrul.github.io/carpassport-site/en.html.md): English landing page for 'car maintenance log app', 'vehicle inspection reminder app'.
 - [Home — full text of the site](https://necatidogrul.github.io/carpassport-site/index.html.md)
 - App Store: https://apps.apple.com/app/id6794941441
