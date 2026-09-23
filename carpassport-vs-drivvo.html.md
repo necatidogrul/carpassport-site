@@ -21,7 +21,7 @@ arabası olan ve Türkiye takviminin hazır gelmesini, satarken belgeli geçmiş
 | Boya-değişen ve tramer | 13 parçalık kaporta haritası + tramer tutarı | — |
 | Satış raporu | Tek dokunuşla PDF araç pasaportu (servis geçmişi + harita + tramer) | Raporlar (biçim mağaza açıklamasında belirtilmiyor) |
 | Hesap / sunucu | Hesap yok, internetsiz, veri cihazda | Mağaza açıklamasında belirtilmiyor |
-| Fiyat | Ücretsiz katman; Pro yıllık 49,99 ₺ veya tek seferlik 104,90 ₺ (ikisi aynı şeyi açar) | Ücretsiz sürüm; Pro seçenekleri mağazada |
+| Fiyat | Ücretsiz katman; Pro yıllık abonelik veya tek seferlik satın alım (ikisi aynı şeyi açar); güncel fiyat mağazada | Ücretsiz sürüm; Pro seçenekleri mağazada |
 | Minimum iOS | iOS 17 | iOS 17 |
 
 ## Drivvo'nun gerçekten daha iyi olduğu yerler

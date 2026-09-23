@@ -10,7 +10,7 @@
 - App Store: https://apps.apple.com/app/id6794941441
 - Platform: iPhone, iOS 17 or later · interface in English and Turkish
 - Developer: Necati Dogrul — https://necatidogrul.dev
-- Last updated: 12 September 2026
+- Last updated: 24 September 2026
 
 ## Features
 
@@ -23,7 +23,7 @@
 
 ## Pricing
 
-Free: one vehicle, 20 records. Pro Yearly $4.99 per year; Pro one-time $9.99. Both unlock
+Free: one vehicle, 20 records. Pro Yearly is an auto-renewing yearly subscription; Pro is a one-time purchase. Both unlock
 unlimited vehicles, unlimited records and the PDF passport. Prices vary by country.
 
 ## Questions
@@ -36,7 +36,7 @@ unlimited vehicles, unlimited records and the PDF passport. Prices vary by count
 
 **What is the Vehicle Passport PDF?** A one-tap report of service history, bodywork map and damage record. A documented car is worth more, and the conversation with a buyer is shorter.
 
-**Is it free?** Free to download, with one vehicle and 20 records. CarPassport Pro Yearly is $4.99 per year; CarPassport Pro is a $9.99 one-time purchase that never renews. Both unlock exactly the same thing: unlimited vehicles, unlimited records and the PDF report.
+**Is it free?** Free to download, with one vehicle and 20 records. CarPassport Pro Yearly is an auto-renewing yearly subscription; CarPassport Pro is a one-time purchase that never renews. Current prices are shown in the app and on the App Store product page. Both unlock exactly the same thing: unlimited vehicles, unlimited records and the PDF report.
 
 **Do I need an account?** No. No sign-up, no server, no ads. Data stays on your device and works offline; if you delete the app, the data goes with it.
 

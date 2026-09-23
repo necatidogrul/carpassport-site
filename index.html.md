@@ -5,7 +5,7 @@
 - App Store: https://apps.apple.com/app/id6794941441
 - Website: https://necatidogrul.github.io/carpassport-site/
 - Developer: Necati Dogrul — https://necatidogrul.dev
-- Last updated: 2026-09-12
+- Last updated: 2026-09-24
 
 Aracının pasaportu cebinde: muayene, MTV, sigorta, masraflar, ekspertiz — hepsi tek yerde, tarihler asla kaçmaz.
 
@@ -43,7 +43,7 @@ TÜVTÜRK muayene, MTV (Ocak & Temmuz), trafik sigortası, kasko, kış/yaz last
 13 parçalık kaporta şeması: orijinal / boyalı / değişen + tramer tutarı. PDF rapora dahildir.
 
 **Ücretsiz mi?**
-Evet. Pro (tek seferlik satın alım) sınırsız araç, sınırsız kayıt ve PDF rapor açar.
+Evet. Pro sınırsız araç, sınırsız kayıt ve PDF rapor açar; yıllık abonelik olarak da tek seferlik satın alım olarak da alınabilir. Güncel fiyat App Store ürün sayfasında.
 
 **Verilerim nerede?**
 Yalnızca cihazında. Uygulamayı silersen veriler de silinir.
